@@ -1,0 +1,34 @@
+# Clojure
+.cpcache/
+.nrepl-port
+*.jar
+pom.xml
+pom.xml.asc
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.calva/
+
+# Environment
+.env
+config.json
+!config.json.example
+
+# Database
+*.db
+*.db-journal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# REPL history
+.lein-repl-history
+.nrepl-history
